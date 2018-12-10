@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+    <color name="colorWhite">#FFFFFF</color>
+    <!--主色-->
+    <color name="colorMain">#45a989</color>
+
+    <!--分割线-->
+    <color name="colorDivide">#F6F6F6</color>
+
+
+    <!--深灰字体颜色-->
+    <color name="colorTextDeep">#333333</color>
+    <!--中灰字体颜色-->
+    <color name="colorTextMiddle">#666666</color>
+    <!--浅灰字体颜色-->
+    <color name="colorTextSmall">#999999</color>
+
+</resources>
